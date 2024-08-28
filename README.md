@@ -16,7 +16,7 @@ Open the Project: Open index.html in your web browser to use the app locally.
 Generate a Quote: Click the "Next" button to fetch and display a new random quote.
 Share on Twitter: Click the "Tweet" button to open Twitter and share the quote.
 
-##How It Works
+## How It Works
 The app loads and fetches a random quote from the Quotable API.
 The quote and its author are displayed in the quote box.
 Users can fetch a new quote by clicking the "Next" button or share the current quote via Twitter.
